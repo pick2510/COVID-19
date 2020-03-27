@@ -1,5 +1,6 @@
 ﻿old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
 ,,Palestine,,,West Bank and Gaza,31.9522,35.2332,,,,,
+,,Myanmar,,,Burma,,,,,,,
 ,,CAR,,,Central African Republic,,,,,,,
 ,,Channel Islands,,Channel Islands,United Kingdom,,,,,,,
 ,,Congo,,,Congo (Brazzaville),,,,,,,
@@ -55,6 +56,7 @@ Dukes and Nantucket,Massachusetts,US,Dukes and Nantucket,Massachusetts,US,41.406
 Out of State,Michigan,US,Out of MI,Michigan,US,0,0,,,,,
 Southwest Utah,Utah,US,Washington,Utah,US,37.28003525,-113.504698,,,,,
 Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,35013
+Dekalb,Georgia,US,DeKalb,Georgia,US,33.76944049,-84.22396017,,,,,35013
 ,,French Polynesia,,French Polynesia,France,-17.6797,-149.4068,,,,,
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
 ,,Belize,,,Belize,17.1899,-88.4976,,,,,
